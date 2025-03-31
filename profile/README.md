@@ -1,6 +1,6 @@
-# 🌟 StrengthCloud - The Ultimate Hosting Experience 🚀
+# 🌟 RegionCloud - The Ultimate Hosting Experience 🚀
 
-Welcome to **StrengthCloud**, where servers run smoother than your WiFi at 3 AM! Whether you need a **Minecraft server**, **Discord bot hosting**, or a **powerful VPS**, we’ve got you covered with both **free** and **paid** options! 💸✨
+Welcome to **RegionCloud**, where servers run smoother than your WiFi at 3 AM! Whether you need a **Minecraft server**, **Discord bot hosting**, or a **powerful VPS**, we’ve got you covered with both **free** and **paid** options! 💸✨
 
 ---
 
@@ -50,7 +50,7 @@ Upgrade when you need **more power**! 🦾💥
 ## 📞 Support & Community
 
 💬 **Join our Discord:** [discord.gg/yBvbtwfYST](https://discord.gg/strengthcloud)  
-📧 **Contact Us:** support@strengthcloud.fun 
+📧 **Contact Us:** support@regioncloud.fun 
 🛠 **Website:** [strengthcloud.fun](https://strengthcloud.fun)
 
 Have an issue? Our support team is faster than a creeper chasing you at night! 🏃💨
@@ -61,7 +61,7 @@ Have an issue? Our support team is faster than a creeper chasing you at night! �
 
 Because **good hosting should be accessible to everyone**. Whether you're a broke student, an indie dev, or a serious business, we've got the right plan for you.
 
-> "At Strength Cloud, we don't just host servers; we host dreams!" ✨
+> "At Region Cloud, we don't just host servers; we host dreams!" ✨
 
 ---
 
@@ -70,4 +70,4 @@ Because **good hosting should be accessible to everyone**. Whether you're a brok
 🚀 [**Sign up now**](https://dash.strengthcloud.fun) and launch your server in minutes!  
 💡 Have questions? Hit us up in Discord!  
 
-📢 **Strength Cloud – Hosting So Good, Even Your Grandma Approves!** 👵✅
+📢 **Region Cloud – Hosting So Good, Even Your Grandma Approves!** 👵✅
